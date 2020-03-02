@@ -19,4 +19,5 @@ Given Gary's sequence of up and down steps during his last hike, find and print 
 
 For example, if Gary's path is <strong>S =[DDUUUUDD]</strong>, he first enters a valley <strong>2</strong> units deep. Then he climbs out an up onto a mountain <strong>2</strong> units high. Finally, he returns to sea level and ends his hike.
 <br><a href ="https://www.hackerrank.com/challenges/counting-valleys/problem"> Full description </a>
+<br><a href ="https://github.com/samuelidehen/Interview-Preparation-Kit/blob/master/Solution/CountingValleys.js"> Solution</a>
 

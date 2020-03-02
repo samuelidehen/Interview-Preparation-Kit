@@ -30,3 +30,16 @@ For each game, Emma will get an array of clouds numbered <strong>0</strong> if t
 <br><a href ="https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem"> Full description </a>
 <br><a href ="https://github.com/samuelidehen/Interview-Preparation-Kit/blob/master/Solution/JumpingOnClouds.js"> Solution</a>
 
+
+<h1>Repeated String</h1>
+
+Lilah has a string,<strong>s</strong> , of lowercase English letters that she repeated infinitely many times.
+
+Given an integer,<strong>n</strong> , find and print the number of letter a's in the first <strong>n</strong> letters of Lilah's infinite string.
+
+For example, if the string <strong>s = 'abcac'</strong> and <strong>n=10</strong>, the substring we consider is <strong>abcacabcac</strong> , the first <strong>10</strong> characters of her infinite string. There are <strong>4</strong> occurrences of a in the substring
+<br><a href ="https://www.hackerrank.com/challenges/repeated-string/problem"> Full description </a>
+<br><a href ="https://github.com/samuelidehen/Interview-Preparation-Kit/blob/master/Solution/RepeatedString.js"> Solution</a>
+
+
+

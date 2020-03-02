@@ -8,7 +8,8 @@ For example, there are <strong> n = 7</strong> socks with colors <strong> ar=[1,
 <br><a href ="https://github.com/samuelidehen/Interview-Preparation-Kit/blob/master/Solution/SockMerchant.js"> Solution</a>
 
 
-<h1>Counting Valleys</h1>
+<h1> 2. Counting Valleys</h1>
+
 Gary is an avid hiker. He tracks his hikes meticulously, paying close attention to small details like topography. During his last hike he took exactly <strong>n</strong> steps. For every step he took, he noted if it was an uphill,<strong>U</strong>, or a downhill, <strong>D</strong> step. Gary's hikes start and end at sea level and each step up or down represents a <strong>1</strong> unit change in altitude. We define the following terms:
 
 A mountain is a sequence of consecutive steps above sea level, starting with a step up from sea level and ending with a step down to sea level.

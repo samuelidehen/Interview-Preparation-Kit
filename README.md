@@ -22,11 +22,24 @@ For example, if Gary's path is <strong>S =[DDUUUUDD]</strong>, he first enters a
 <br><a href ="https://github.com/samuelidehen/Interview-Preparation-Kit/blob/master/Solution/CountingValleys.js"> Solution</a>
 
 
-<h1> 2. Jumping on the Clouds</h1>
+<h1> 3. Jumping on the Clouds</h1>
 
 Emma is playing a new mobile game that starts with consecutively numbered clouds. Some of the clouds are thunderheads and others are cumulus. She can jump on any cumulus cloud having a number that is equal to the number of the current cloud plus  <strong>1</strong> or <strong>2</strong> . She must avoid the thunderheads. Determine the minimum number of jumps it will take Emma to jump from her starting postion to the last cloud. It is always possible to win the game.
 
 For each game, Emma will get an array of clouds numbered <strong>0</strong> if they are safe or <strong>1</strong>  if they must be avoided. For example, <strong>C = [0,1,0,0,0,1,0]</strong>  indexed from <strong>0...6</strong>. The number on each cloud is its index in the list so she must avoid the clouds at indexes <strong>1</strong> and <strong>5</strong> . She could follow the following two paths: <strong>0-->2-->4-->6 or 0-->2-->3-->4-->6</strong> or . The first path takes <strong>3 </strong> jumps while the second takes <strong>4</strong> .
 <br><a href ="https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem"> Full description </a>
 <br><a href ="https://github.com/samuelidehen/Interview-Preparation-Kit/blob/master/Solution/JumpingOnClouds.js"> Solution</a>
+
+
+<h1>4. Repeated String</h1>
+
+Lilah has a string,<strong>s</strong> , of lowercase English letters that she repeated infinitely many times.
+
+Given an integer,<strong>n</strong> , find and print the number of letter a's in the first <strong>n</strong> letters of Lilah's infinite string.
+
+For example, if the string <strong>s = 'abcac'</strong> and <strong>n=10</strong>, the substring we consider is <strong>abcacabcac</strong> , the first <strong>10</strong> characters of her infinite string. There are <strong>4</strong> occurrences of a in the substring
+<br><a href ="https://www.hackerrank.com/challenges/repeated-string/problem"> Full description </a>
+<br><a href ="https://github.com/samuelidehen/Interview-Preparation-Kit/blob/master/Solution/RepeatedString.js"> Solution</a>
+
+
 

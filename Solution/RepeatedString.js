@@ -1,4 +1,3 @@
-import { lstat } from "fs";
 
 //Solution 1//
 function RepeatedString(s,n){
